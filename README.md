@@ -16,7 +16,7 @@ The goal is to bring useful AI-powered study tools together in one platform and 
 |---|---|
 | Course | CSE 4104 – Software Development III |
 | Section | 7A |
-| Team Name | CSE4104-7A-T03 |
+| Team Name | CSE4104-7A-T04 |
 | Team Leader | Md. Ashikur Reza |
 
 ### Team Members
@@ -69,5 +69,5 @@ This project is being developed as part of the CSE 4104 Software Development III
 
 ---
 
-**Team:** CSE4104-7A-T03  
+**Team:** CSE4104-7A-T04  
 **Project:** Lecture AI – Smart Academic Intelligence
