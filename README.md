@@ -23,10 +23,10 @@ The goal is to bring useful AI-powered study tools together in one platform and 
 
 | Member | Responsibility |
 |---|---|
-| Md. Ashikur Reza | Backend, Database, Integration and Deployment |
-| Md. Tareq Imroj | AI Integration and AI Testing |
+| Md. Ashikur Reza | Backend developer and project coordinator |
+| Md. Tareq Imroj | AI Integration and Testing lead |
 | Imtiaj Ahmed Sami | Quality Assurance and Documentation |
-| Peter Pranto Sarkar | Frontend Development and UI/UX |
+| Peter Pranto Sarkar | Frontend Development |
 
 ## Proposed Features
 
