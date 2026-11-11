@@ -125,10 +125,10 @@ Lecture-AI/
 
 | Name | Student ID | Role |
 |---|---|---|
-| Md. Ashikur Reza | [Student ID] | Team Leader & Backend Developer |
-| Md. Tareq Imroj | [Student ID] | AI Integration & Testing |
-| Imtiaj Ahmed Sami | [Student ID] | QA & Documentation |
-| Peter Pranto Sarkar | [Student ID] | Deployment |
+| Md. Ashikur Reza | [11230321219] | Team Leader & Backend Developer |
+| Md. Tareq Imroj | [11230321233] | AI Integration & Testing |
+| Imtiaj Ahmed Sami | [11230321217] | QA & Documentation |
+| Peter Pranto Sarkar | [11240121668] | Deployment |
 
 
 
