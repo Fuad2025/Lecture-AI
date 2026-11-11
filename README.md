@@ -117,17 +117,20 @@ Lecture-AI/
 └── README.md
 ```
 
+
 ## 7. Team Information
 
 **Team Code:** T04  
 **Section:** 7A
 
-| Name | Designation |
-|---|---|
-| Md. Ashikur Reza | Team Leader |
-| Md. Tareq Imroj | Team Member |
-| Imtiaj Ahmed Sami | Team Member |
-| Peter Pranto Sarkar | Team Member |
+| Name | Student ID | Role |
+|---|---|---|
+| Md. Ashikur Reza | [Student ID] | Team Leader & Backend Developer |
+| Md. Tareq Imroj | [Student ID] | AI Integration & Testing |
+| Imtiaj Ahmed Sami | [Student ID] | QA & Documentation |
+| Peter Pranto Sarkar | [Student ID] | Deployment |
+
+
 
 ## 8. Development Status
 
