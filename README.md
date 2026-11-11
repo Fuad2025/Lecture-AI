@@ -5,7 +5,7 @@ An AI-powered academic learning assistant that helps university students underst
 
 **Course:** CSE 4104 – Software Development III  
 **Section:** 7A  
-**Team:** T04  
+**Team:** CSE4104-7A-T04 
 **Institution:** Northern University of Business & Technology Khulna
 
 ---
@@ -120,7 +120,7 @@ Lecture-AI/
 
 ## 7. Team Information
 
-**Team Code:** T04  
+**Team:** CSE4104-7A-T04
 **Section:** 7A
 
 | Name | Student ID | Role |
@@ -169,4 +169,4 @@ https://github.com/Fuad2025/Lecture-AI
 
 **Lecture AI – Smart Academic Intelligence**  
 CSE 4104 – Software Development III  
-Team T04 | Section 7A
+CSE4104-7A-T04 | Section 7A
