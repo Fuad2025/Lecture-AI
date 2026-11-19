@@ -150,7 +150,7 @@ copy .env.example .env
 | Variable | Description |
 |---|---|
 | `SECRET_KEY` | Random secret used to sign session cookies |
-| `GEMINI_API_KEY` | Your Google Gemini API key |
+| `GEMINI_API_KEY` | Google Gemini API key |
 | `GEMINI_MODEL` | Gemini model name used by the AI service |
 | `DATABASE_URL` | Database connection string (default `sqlite:///lecture_ai.db`) |
 
