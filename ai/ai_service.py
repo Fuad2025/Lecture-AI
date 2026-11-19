@@ -8,7 +8,7 @@ from google.genai import types
 
 load_dotenv()
 
-MODEL = os.getenv("GEMINI_MODEL", "gemini-3.8-flash")
+MODEL = os.getenv("GEMINI_MODEL", "gemini-3.1-flash-lite")
 
 CHUNK_SIZE = 25000
 MAX_QUIZ_TEXT_CHARS = 100000
