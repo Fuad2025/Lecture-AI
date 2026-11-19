@@ -210,7 +210,7 @@ HTTP codes: `400` bad input, `401` not logged in, `404` not found, `500` server 
 | Md. Ashikur Reza | 11230321219 | Team Leader & Backend Developer |
 | Md. Tareq Imroj | 11230321233 | AI Integration & Testing |
 | Imtiaj Ahmed Sami | 11230321217 | QA & Documentation |
-| Peter Pranto Sarkar | 11240121668 | Frontend Development & Deployment |
+| Peter Pranto Sarkar | 11240121668 | Frontend Development |
 
 ## 10. Development Status
 
