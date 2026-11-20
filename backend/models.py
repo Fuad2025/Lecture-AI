@@ -19,3 +19,29 @@ class User(UserMixin, db.Model):
 
     def check_password(self, password):
         return check_password_hash(self.password_hash, password)
+
+
+class Document(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    user_id = db.Column(db.Integer, db.ForeignKey("user.id"), nullable=False)
+    filename = db.Column(db.String(255), nullable=False)
+    extracted_text = db.Column(db.Text, nullable=False)
+    summary = db.Column(db.Text, nullable=True)  # filled in step 5
+    uploaded_at = db.Column(db.DateTime, default=datetime.now)
+
+
+class Quiz(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    document_id = db.Column(db.Integer, db.ForeignKey("document.id"), nullable=False)
+    questions_json = db.Column(db.Text, nullable=False)  # questions stored as JSON text
+    difficulty = db.Column(db.String(10), nullable=False)
+    created_at = db.Column(db.DateTime, default=datetime.now)
+
+
+class QuizAttempt(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    quiz_id = db.Column(db.Integer, db.ForeignKey("quiz.id"), nullable=False)
+    user_id = db.Column(db.Integer, db.ForeignKey("user.id"), nullable=False)
+    score = db.Column(db.Integer, nullable=False)
+    total = db.Column(db.Integer, nullable=False)
+    taken_at = db.Column(db.DateTime, default=datetime.now)
