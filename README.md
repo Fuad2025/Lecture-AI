@@ -219,10 +219,10 @@ HTTP codes: `400` bad input, `401` not logged in, `404` not found, `500` server 
 - [x] Project planning, SRS and initial diagrams
 - [x] Backend skeleton, configuration and database connection
 - [x] User model and authentication (register, login, logout)
-- [ ] PDF upload and text extraction
-- [ ] Document library endpoint
-- [ ] AI summary and quiz generation
-- [ ] Quiz submission, scoring and history
+- [x] PDF upload and text extraction
+- [x] Document library endpoint
+- [x] AI summary and quiz generation
+- [x] Quiz submission, scoring and history
 - [ ] Frontend pages
 - [ ] Testing and deployment
 
